@@ -1,0 +1,17 @@
+/Users/macbook/Documents/Doc KENZIE/accenture teste/backend/companyAndSuppliers/src/main/java/com/milena/companyAndSuppliers/model/Supplier.java
+/Users/macbook/Documents/Doc KENZIE/accenture teste/backend/companyAndSuppliers/src/main/java/com/milena/companyAndSuppliers/Exception/AppException.java
+/Users/macbook/Documents/Doc KENZIE/accenture teste/backend/companyAndSuppliers/src/main/java/com/milena/companyAndSuppliers/CompanyAndSuppliersApplication.java
+/Users/macbook/Documents/Doc KENZIE/accenture teste/backend/companyAndSuppliers/src/main/java/com/milena/companyAndSuppliers/controller/CompanyController.java
+/Users/macbook/Documents/Doc KENZIE/accenture teste/backend/companyAndSuppliers/src/main/java/com/milena/companyAndSuppliers/model/Company.java
+/Users/macbook/Documents/Doc KENZIE/accenture teste/backend/companyAndSuppliers/src/main/java/com/milena/companyAndSuppliers/service/CEPValidator.java
+/Users/macbook/Documents/Doc KENZIE/accenture teste/backend/companyAndSuppliers/src/main/java/com/milena/companyAndSuppliers/service/CompanySupplierService.java
+/Users/macbook/Documents/Doc KENZIE/accenture teste/backend/companyAndSuppliers/src/main/java/com/milena/companyAndSuppliers/controller/CompanySupplierController.java
+/Users/macbook/Documents/Doc KENZIE/accenture teste/backend/companyAndSuppliers/src/main/java/com/milena/companyAndSuppliers/repository/CompanyRepository.java
+/Users/macbook/Documents/Doc KENZIE/accenture teste/backend/companyAndSuppliers/src/main/java/com/milena/companyAndSuppliers/repository/CompanySupplierRepository.java
+/Users/macbook/Documents/Doc KENZIE/accenture teste/backend/companyAndSuppliers/src/main/java/com/milena/companyAndSuppliers/service/SuppliersService.java
+/Users/macbook/Documents/Doc KENZIE/accenture teste/backend/companyAndSuppliers/src/main/java/com/milena/companyAndSuppliers/repository/SupplierRepository.java
+/Users/macbook/Documents/Doc KENZIE/accenture teste/backend/companyAndSuppliers/src/main/java/com/milena/companyAndSuppliers/model/CompanySupplier.java
+/Users/macbook/Documents/Doc KENZIE/accenture teste/backend/companyAndSuppliers/src/main/java/com/milena/companyAndSuppliers/Exception/GlobalExceptionHandler.java
+/Users/macbook/Documents/Doc KENZIE/accenture teste/backend/companyAndSuppliers/src/main/java/com/milena/companyAndSuppliers/controller/SupplierController.java
+/Users/macbook/Documents/Doc KENZIE/accenture teste/backend/companyAndSuppliers/src/main/java/com/milena/companyAndSuppliers/service/CompanyService.java
+/Users/macbook/Documents/Doc KENZIE/accenture teste/backend/companyAndSuppliers/src/main/java/com/milena/companyAndSuppliers/config/RestTemplateConfig.java
